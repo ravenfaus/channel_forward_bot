@@ -1,0 +1,14 @@
+# Forward bot
+Telegram bot, which can forward posts from many channels to one
+# Requirements
+- [Python3.7+](https://www.python.org/downloads/)
+- [Aioredis](https://github.com/aio-libs/aioredis)
+- [Aiogram](https://github.com/aiogram/aiogram)
+- Postgresql
+- Gino
+- SQLAlchemy
+# How to run?
+1. Edit config_sample.py and rename to config.py
+2. Use webhook.py or polling.py to start bot
+### Any questiongs?
+[Write to me](https://t.me/RavenFaus)
